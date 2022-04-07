@@ -1,0 +1,1 @@
+Modelo de Implementação - Diagrama Entidade-Relacionamento Estendido com Pé de Galinha.
