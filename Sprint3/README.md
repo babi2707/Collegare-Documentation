@@ -1,1 +1,1 @@
-Documentação da Sprint 3.
+Documentação da Sprint 3 para o trabalho de TI2.
