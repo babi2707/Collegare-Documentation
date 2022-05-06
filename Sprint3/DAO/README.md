@@ -1,0 +1,1 @@
+Documentação do DAO, para conexão entre back-end e banco de dados.
