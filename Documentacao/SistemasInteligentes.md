@@ -5,7 +5,18 @@ A aplicação foi concebida com a implementação de dois sistemas inteligentes 
 A aplicação Collegare atua diretamente com usarios, fazendo com que um sistema de recomendação de serviços seja imprescindível para o lançamento da aplicação.
 Essa funcionalidade baseia-se no histórico de busca e contratação do usuário, para fornecer resultados relevantes e recomentação de serviços de acordo com o perfil e necessidade de cada usuário.
 
+### Dataset
+Para confecção do Sistema de Recomendação foi criado, inicialmente, um dataset simulando informações que poderão ser inseridas na plataforma, a fim de preparar o sistema para responder a base de dados criada.
 
+![img](https://github.com/babi2707/Collegare-Documentation/blob/main/Documentacao/images/dataset.PNG)
+
+### Pipeline
+A partir da utilização da plataforma Microsoft Azure (link: https://portal.azure.com), a estrutura do Sistema de Recomendação foi criada desde sua conexão com o dataset até a exibição dos resultados obtidos a partir da análise do fator escolhido como base de cálculo: preço do serviço.
+
+![img](https://github.com/babi2707/Collegare-Documentation/blob/main/Documentacao/images/real-time.PNG)
+
+### Código Java
+Com a implantação do Sistema através do Portal Azure, pode-se agora implementá-lo no web service através do código abaixo. É válido ressaltar que o Sistema retorna um valor referente a um dos elementos cadastrados na base de dados, gerado pelo próprio Sistema anteriormente.
 
 ``` java
 import java.io.IOException;
@@ -80,4 +91,9 @@ public class App {
 
 ## ChatBot
 A concepção do projeto também conta com um sistema de atendimento automático para que usuários possam tirar duvidas e interagir com a plataforma de forma mais humanizada.
-O chatBot conta com a recomendação de categorias de serviços de acordo com as peguntas do usuário e responde possíveis duvidas acerca do funcionamento da plataforma Collegare.
+O chatBot conta com a recomendação de serviços de acordo com a seleção do usuário diante de opções pré-definidas.
+
+![img](https://github.com/babi2707/Collegare-Documentation/blob/main/Documentacao/images/site1.PNG)
+![img](https://github.com/babi2707/Collegare-Documentation/blob/main/Documentacao/images/site2.PNG)
+![img](https://github.com/babi2707/Collegare-Documentation/blob/main/Documentacao/images/site3.PNG)
+
