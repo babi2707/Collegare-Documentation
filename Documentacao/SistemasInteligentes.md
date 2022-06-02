@@ -18,9 +18,9 @@ public class App {
     // Handle making the request
     public static void sendRequest(String data) {
         // Replace with the scoring_uri of your service
-        String uri = "<http://20.24.233.136/api/v1/service/collegare-service/swagger.json>";
+        String uri = "http://20.24.233.136/api/v1/service/collegare-service/swagger.json";
         // If using authentication, replace with the auth key or token
-        String key = "<X8ln4PlhC8fwisehmBQeoGTXLfdlwx3c>";
+        String key = "X8ln4PlhC8fwisehmBQeoGTXLfdlwx3c";
         try {
             // Create the request
             Content content = Request.Post(uri)
