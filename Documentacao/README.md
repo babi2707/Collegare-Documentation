@@ -15,6 +15,7 @@ Trabalho Interdisciplinar II - Bancos de Dados
 3. [Projeto da Interface](Interface.md)
 4. [Implementação](Implementação.md)
 5. [Testes e Avaliação](Testes.md)
-6. [Apresentação](Apresentação.md)
+6. [Sistemas Inteligentes](SistemasInteligentes.md)
+7. [Apresentação](Apresentação.md)
 
 
