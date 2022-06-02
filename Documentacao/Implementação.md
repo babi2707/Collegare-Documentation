@@ -10,6 +10,14 @@ As tecnologias utilizadas para implementação do projeto foram:
     
       > A plataforma do GitHub pages foi escolhida para hospedagem da aplicação final por possuir integração direta com o repositório utilizado ao longo do desenvolvimento  
       
+  * Back-End: Baseado em "Java Aplication"
+    * Ambiente de desenvolvimento "Eclipe"
+      > A IDE Eclipse foi escolhida por permitir a manipulação das diversas partes do back-end de forma integrada. 
+    * Maven e Spark Framework 
+  * Banco de Dados: Implementação local e em nuvem
+    * PostgreSQL: A implementação local do banco de dados foi feita utilizando o postgreSQL que juntamente com o PHPAdmin permitiu a análise de casos de teste para as diferentes entidades utilizadas no desenvolvimento do projeto (Usuários e Serviços)
+    * Azure: O banco de dados da aplicação foi implementado em núvem utilizando a plataforma Microsofr Azure. 
+      
   * API'S: Foram utilizadas duas API's no desenvolvimento da funcionalidade do mapa na aplicação
     * Google Maps Api: API do google maps que permite interagir com o mapa diretamente da página WEB
     * Places API: Extensão do API do google maps que permite a sugestão e sugestão de lugares de acordo com o endereço fornecido pelo usuário
