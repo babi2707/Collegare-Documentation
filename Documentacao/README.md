@@ -14,8 +14,7 @@ Trabalho Interdisciplinar II - Bancos de Dados
 2. [Especificações do Projeto](Especificação.md)
 3. [Projeto da Interface](Interface.md)
 4. [Implementação](Implementação.md)
-7. [Testes e Avaliação](7-Testes.md)
-8. [Referências](8-Referências.md)
-9. [Apresentação](9-Apresentação.md)
+5. [Testes e Avaliação](Testes.md)
+6. [Apresentação](Apresentação.md)
 
 
