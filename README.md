@@ -1,4 +1,4 @@
-# Documentação Collegare
+# Collegare
 Collegare é uma ferramenta para divulgar e pesquisar por serviços. Usuários poderão comparar preços, buscar por serviços e contatar prestadores diretamente. 
 
 Site Disponível em: https://rickfuriati.github.io/Collegare/index.html
