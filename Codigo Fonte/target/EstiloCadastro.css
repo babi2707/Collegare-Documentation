@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(20,33,61);
+}
+#banner{
+    background-color: rgb(196,196,196);
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 34%;
+    height: 600px;
+    border-radius: 10px;
+}
+
+#banner h1{
+    display: block;
+    margin-left: 25%;
+    padding-top: 20px;
+    
+}
+#banner input{
+    
+    margin-left: 20px;
+    margin-top: 20px;
+    border: solid 2px black;
+    padding: 10px;
+}
+#banner i{
+    padding-right:5px;
+    width: 45px;
+}
+
+.campo{
+    
+    margin-left: 10%;
+}
+#senha{
+    padding-left: 100px;
+}
+button{
+    margin-top: 40px;
+    margin-left: 32%;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border: solid 2px black;
+    display: flex;
+    border-radius: 5px;
+}
+#botoes{
+    display: flex;
+    flex-direction: row;
+}
+button:hover{
+    background-color: rgb(252,163,17);
+    border: solid 2px black;
+    color: black;
+}
+#voltar{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#voltar:hover{
+    transition: 0.6s;
+    transform: rotateY(90deg); 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: white;
+}
